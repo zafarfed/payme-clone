@@ -1,0 +1,142 @@
+.homepage{
+    height: 100vh;
+    display: flex;
+}
+.mainHeader{
+    background: white;
+    height: 90px;
+    box-shadow: 3px 10px 14px 1px rgba(0, 0, 0, 0.10);
+}
+.mainHeader .logo{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.mainHeader .header-links button{
+    margin-top: 20px;
+    margin-left:80px;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.mainHeader .header-links button:hover{
+    color: #3cc;
+}
+.mainWindow{
+    height: 84vh;
+}
+
+.mainWindow .loginWindow .loginText{
+    margin: 150px 0 0 80px ;
+    font-size: 25px;
+    font-family: Arial;
+    color: #493f3f;
+}
+.mainWindow .loginWindow label{
+    margin: 50px 0 0 80px;
+    font-family: Arial;
+    color: #493f3f;
+}
+.mainWindow .loginWindow .inputs{
+    border: 2px solid grey;
+    width: 299px;
+    height: 60px;
+    margin-left: 80px;
+    border-radius: 10px;
+    outline: none;
+}
+.mainWindow .loginWindow .inputs:hover{
+    border: solid #3cc;
+}
+.mainWindow .loginWindow .inputs a{
+    width: 60px;
+    font-size: 22px;
+    margin: 9px 0 0 8px;
+}
+
+.mainWindow .loginWindow .inputs .input2{
+    padding: .6rem;
+    width: 230px;
+    color: #493f3f;
+    font-size: 22px;
+    position: absolute;
+    border: none;
+}
+.mainWindow .loginWindow .inputs .phoneNumberBtn{
+    background: #3cc;
+    color: white;
+    position: relative;
+    margin-left: 170px;
+    width: 64px;
+    height: 56px;
+    border-radius: 10px;
+    border: none;
+}
+
+.mainWindow .paymeBg{
+    margin-top: 18px;
+    border-radius: 10px;
+    background-image: url('../pictures/1-2-5-768x628.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mainWindow .medias{
+    margin-left: 150px;
+    margin-top: 50px;
+    font-size: 40px;
+
+}
+
+.mainWindow .medias .mediaLink{
+    color: #332f2f;
+    margin-right: 30px;
+}
+.mainWindow .medias .mediaLink:hover{
+    color: #3cc;
+}
+
+.mainWindow .medias .mediasText{
+    font-size: 12px;
+    color:  #332f2f;
+}
+.mainWindow .medias .mediasText:hover{
+    color: #3cc;
+}
+.footer{
+    background-color: #33cccc;
+    border-top: 50px;
+    font-family: Arial;
+}
+.phone{
+    color: #504e4e;
+}
+.footerLink{
+    margin-top: 10px;
+    padding: 5px;
+    color: #595656;
+}
+.footerLink:hover{
+    color: #3b3939;
+    font-weight: bold;
+    border-bottom: none;
+    border-bottom: 1px solid #3b3939;
+    cursor: pointer;
+}
+.fEmail{
+    border-radius: 10px;
+}
+.footerIcon{
+    font-size: 40px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.footerIcon:nth-child(1){
+    color: #2175cc;
+}
+.footerIcon:nth-child(2){
+    color: #11146e;
+}
+.footerIcon:nth-child(3){
+    color: #b82bd0;
+}

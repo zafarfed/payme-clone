@@ -1,0 +1,39 @@
+.user-img{
+    width: 120px;
+    height: 110px;
+    background-color: #33cccc;
+    border-radius: 50%;
+    border: 1px solid seagreen;
+    position: relative;
+    margin:30px 0 0 250px;
+}
+.user-img .fa-user-tie{
+    width: 117px;
+    height: 108px;
+    position: absolute;
+    font-size: 90px;
+    border: 2px solid white;
+    border-radius: 50%;
+    text-align:center;
+    color: #eee8e8;
+}
+.user-img  p{
+    width: 85px;
+    background-color: #c7ae0c;
+    border-radius: 20px;
+    position: relative;
+    font-size: 15px;
+    margin: 112px 0 0 17px;
+    text-align: center;
+    border: 1px solid #33cccc;
+    color: #f8f9fa;
+    font-family: Arial;
+    font-weight: bolder;
+}
+
+.saveBtn button{
+    background-color: #33cccc;
+    color: #f8f9fa;
+    font-family: Arial;
+    font-weight: bold;
+}

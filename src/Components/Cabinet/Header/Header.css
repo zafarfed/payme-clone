@@ -1,0 +1,36 @@
+/*.headerClass{*/
+/*position: fixed;*/
+/*}*/
+.logo-img{
+    cursor: pointer;
+    margin: 20px 0 0 20px;
+}
+
+.balance .far{
+    margin: 20px 0 0 20px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.balance .far:hover{
+    color: #33cccc;
+}
+.balance a{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.nav-items{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-items .nav-item{
+    margin-top: 25px;
+}
+.nav-items .nav-item .nav-icon{
+    font-size: 25px;
+   color: #595656;
+}
+.nav-items .nav-item .nav-icon:hover{
+    color: #3ccc;
+}

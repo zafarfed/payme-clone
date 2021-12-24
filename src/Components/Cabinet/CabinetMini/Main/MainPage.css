@@ -1,0 +1,26 @@
+.mainTitle{
+    margin: 100px 0 0  40px;
+    font-family: "Bell MT";
+    color: #493f3f;
+}
+.mainTitle p{
+    font-size: 20px;
+}
+.inputClass{
+    background-color: #e3dede;
+    padding: 3rem;
+    border-radius: 15px;
+}
+.inputClass .mainPageInput{
+    padding: 10px;
+}
+label{
+    font-family: Calibri;
+}
+.inputClass .mainPageButton{
+    margin-top: 25px;
+    padding: 10px;
+    background-color: #33cccc;
+    color: #f8f9fa;
+    font-family: Bahnschrift;
+}

@@ -1,0 +1,9 @@
+.row .settingPageInput{
+    padding: 10px;
+}
+.row .transferBtn{
+    background-color: #33cccc;
+    padding: 10px;
+    color: #f8f9fa;
+    font-family: Bahnschrift;
+}

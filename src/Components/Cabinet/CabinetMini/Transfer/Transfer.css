@@ -1,0 +1,27 @@
+.settingTitle{
+    margin: 50px 0 0  50px;
+    font-family: "Bell MT";
+    color: #493f3f;
+}
+.settingTitle p{
+    font-size: 20px;
+}
+.settingPageButton{
+    margin-top: 25px;
+    padding: 5px;
+    background-color: #33cccc;
+    color: #f8f9fa;
+    font-family: Arial;
+}
+.transfer_links{
+    font-size: 30px;
+    color: #3cc;
+}
+.transfer_links .fab .fas{
+    font-size: 18px;
+}
+.classA{
+    margin-left: 10px;
+    color: #504a4a;
+    font-size: 18px;
+}

@@ -1,0 +1,26 @@
+.sidebar{
+    width: 140px;
+    height: 600px;
+    background-color: #33cccc;
+}
+.sidebar .sidebar-item{
+    height: 100px;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+}
+.sidebar-item:hover{
+    background-color: white;
+    color: #33cccc;
+}
+.sidebar .sidebar-item .item-icon{
+    margin-top: 25px;
+}
+
+.sidebar .sidebar-item p{
+    font-size: 19px;
+}
+.active{
+    background-color: white;
+    color: #33cccc;
+}

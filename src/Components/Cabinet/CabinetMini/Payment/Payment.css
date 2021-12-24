@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-bottom: 1px solid gray;
+}
+
+.mainPageItems {
+    height: 150px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 3px;
+    color: #3b3939;
+    background-color: #f8f9fa;
+}
+
+.mainPageItems:hover {
+    box-shadow: 0 0 7px;
+    cursor: pointer;
+}
+
+.modalClass{
+    background-color: cadetblue;
+}
